@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/C:/Users/larvi/WebstormProjects/webpack-work-stream/src/styles/home.less"],"names":[],"mappings":"AAAA,MACE","file":"home.css","sourcesContent":[".home{\n  background: #ddd;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/styles/C:/Users/larvi/WebstormProjects/webpack-work-stream/src/styles/home.less"],"sourceRoot":""}
